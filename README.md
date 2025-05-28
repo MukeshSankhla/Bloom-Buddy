@@ -58,27 +58,14 @@ Watch as Bloom Buddy celebrates when you water your plants, gets sad when they'r
 - **SD Card Audio Storage**: Multiple voice response files
 - **Randomized Responses**: Varied audio for same conditions
 
-## 📁 Project Structure
+## 📁 SD Structure
 
 ```
-BloomBuddy/
-├── BloomBuddy.ino          # Main Arduino sketch
-├── README.md               # This file
-├── LICENSE                 # MIT License
-├── docs/                   # Documentation
-│   ├── setup.md           # Hardware setup guide
-│   ├── audio-files.md     # Audio file organization
-│   └── troubleshooting.md # Common issues and solutions
-├── audio/                  # Voice response files
-│   ├── Voice/
-│   │   ├── B1-B6.wav     # Boot sounds
-│   │   ├── D1-D5.wav     # Dry/Sad sounds
-│   │   ├── W1-W6.wav     # Watered/Happy sounds
-│   │   ├── N1-N5.wav     # Night/Sleep sounds
-│   │   ├── M1-M4.wav     # Morning/Wake sounds
-│   │   ├── C1-C2.wav     # Cold sounds
-│   │   └── H1-H2.wav     # Hot sounds
-└── images/                 # Project images and diagrams
+SD/
+  ├── Voice/
+  │   ├── All Audio Files
+  ├── Emoji/
+  │   ├── All Frames
 ```
 
 ## 🚀 Quick Start
@@ -204,10 +191,10 @@ We welcome contributions! Here's how you can help:
 | State | Animation | Description |
 |-------|-----------|-------------|
 | 😊 Happy | ![Happy](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/1.gif?text=😊) | Plant is well-watered and content |
-| 😢 Sad | ![Sad](https://via.placeholder.com/100x80/FFB6C1/000000?text=😢) | Plant needs water |
-| 😴 Sleep | ![Sleep](https://via.placeholder.com/100x80/87CEEB/000000?text=😴) | Nighttime rest mode |
-| 🥶 Cold | ![Cold](https://via.placeholder.com/100x80/B0E0E6/000000?text=🥶) | Temperature too low |
-| 🥵 Hot | ![Hot](https://via.placeholder.com/100x80/FFB347/000000?text=🥵) | Temperature too high |
+| 😢 Sad | ![Sad](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/10.gif?text=😢) | Plant needs water |
+| 😴 Sleep | ![Sleep](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/17.gif?text=😴) | Nighttime rest mode |
+| 🥶 Cold | ![Cold](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/7.gif?text=🥶) | Temperature too low |
+| 🥵 Hot | ![Hot](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/5.gif?text=🥵) | Temperature too high |
 
 ## 📊 Technical Specifications
 
@@ -248,17 +235,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UNIHIKER team for the excellent development board
 - Plant enthusiasts who inspired this project
 - Contributors and testers
-
-## 📞 Support
-
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/bloom-buddy/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/bloom-buddy/discussions)
-- 📧 **Contact**: your.email@example.com
-
+- 
 ---
 
-<div align="center">
-  <strong>🌱 Happy Gardening with Bloom Buddy! 🌱</strong>
-  
-  Made with ❤️ for plants and their humans
-</div>
+🌱 Happy Gardening with Bloom Buddy! 🌱
+
+Made with ❤️ for plants and their humans
