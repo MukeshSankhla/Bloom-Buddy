@@ -27,7 +27,7 @@
  * 
  * Repository: https://github.com/MukeshSankhla/Bloom-Buddy
  * License: MIT
- * Date: 2025
+ * Date: March-30 2025
  */
 
 #include "unihiker_k10.h"
