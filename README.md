@@ -190,7 +190,7 @@ We welcome contributions! Here's how you can help:
 
 | State | Animation | Description |
 |-------|-----------|-------------|
-| 😊 Happy | ![Happy](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/1.gif?text=😊) | Plant is well-watered and content |
+| 😊 Happy | ![Happy](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/12.gif?text=😊) | Plant is well-watered and content |
 | 😢 Sad | ![Sad](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/10.gif?text=😢) | Plant needs water |
 | 😴 Sleep | ![Sleep](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/17.gif?text=😴) | Nighttime rest mode |
 | 🥶 Cold | ![Cold](https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/Gifs/7.gif?text=🥶) | Temperature too low |
