@@ -1,7 +1,9 @@
 # 🌱 Bloom Buddy - Your Smart Plant Companion
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/F4A261/000000?text=Bloom+Buddy" alt="Bloom Buddy Device">
+  <img src="https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/images/Cover.gif" alt="Bloom Buddy Device">
+  <img src="https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/images/DSC01019.JPG" alt="Bloom Buddy Device">
+  <img src="https://github.com/MukeshSankhla/Bloom-Buddy/blob/main/images/S1.png" alt="Bloom Buddy Device">
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Platform](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
