@@ -43,6 +43,8 @@ SD/
   │   ├── All Audio Files
   ├── Emoji/
   │   ├── All Frames
+  ├── Face/
+  │   ├── All Images
 ```
 
 ## 🚀 Quick Start
