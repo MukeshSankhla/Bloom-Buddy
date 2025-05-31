@@ -151,7 +151,6 @@ This project is licensed under the MIT License
 - UNIHIKER team for the excellent development board
 - Thanks to the Arduino and ESP32 communities
 - Plant enthusiasts who inspired this project
-- 
 ---
 
 🌱 Happy Gardening with Bloom Buddy! 🌱
